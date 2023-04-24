@@ -1,4 +1,4 @@
-## Project description:
+## Project description
 
 This project aims to develop a real-time American Sign Language (ASL) recognition system using Convolutional Neural Networks (CNNs) to improve communication and accessibility for the hearing-impaired community. By implementing this system in communication aids, educational resources, and assistive technologies, we hope to bridge the communication gap and enhance the quality of life for individuals who rely on ASL for communication. The project involves preprocessing input images using techniques such as resizing, grayscaling, and Gaussian blurring, and training a CNN model with multiple layers, including convolutional, max-pooling, dropout, and dense layers. The trained model is integrated into a real-time video stream using OpenCV for ASL gesture recognition, and the chosen model architecture is designed to optimize performance while minimizing overfitting.
 
